@@ -1,1 +1,4 @@
-# personalsite
+# EcoIndia
+EcoIndia is a basic website to help promote awareness on the environmental concerns of India. It was made to help educate people how simple actions can led to big changes for the environment. Additionally, it trys to encourage people to participate to create a greener and cleaner India.
+
+The website is very basic as of right now. It consists of 4 pages: Home, Environemental Issues, Steps to Take Today, and About Us. Each addresses a concern that EcoIndia is taking into account. The Home page simply has the links to the other pages for right now, which will be improved on after the first ship. The About Us page gives a description of the mission of EcoIndia, followed by a list of what we do. The Environmental Issues page lists the top 3 pollution problems in India along with a description about how this is specifically impacting India. Lastly, the Steps to Take Today page gives a list of simple steps people living in India can take to help reduce the harmful environmental impacts they have on the Indian environment.
